@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6%2B-blue?logo=python" />
   <img src="https://img.shields.io/badge/status-in%20dev-orange" />
@@ -13,8 +12,11 @@
 
 > Mass SMTP-based Telegram reporting tool with attitude 😈
 
----
 
+## CONTACT
+<h3 align="center">📫 Contact in Telegram: <a href="https://t.me/+8ZSAFnEv5OtlZDAy">ЖМИ СЮДА</a></h3>
+
+---
 ## 🎯 What is this?
 
 `TeleKill SMTP` is a custom Python tool for **automated complaint/report submission** to Telegram support mailboxes using **multiple SMTP accounts**, stylish terminal UI, and infinite sending loops.  
