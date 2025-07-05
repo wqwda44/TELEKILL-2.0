@@ -14,7 +14,7 @@
 
 
 ## CONTACT
-<h3 align="center">📫 Contact in Telegram: <a href="https://t.me/+8ZSAFnEv5OtlZDAy">ЖМИ СЮДА</a></h3>
+<h3 align="center">📫 Contact in Telegram: <a href="https://t.me/+Nezl7JZHT_Q2NzQy">ЖМИ СЮДА</a></h3>
 
 ---
 ## 🎯 What is this?
